@@ -1,0 +1,5 @@
+https://github.com/Katsysiro/vk_mini_apps_front_learn
+https://github.com/Katsysiro/vk_mini_apps_server_learn
+
+https://github.com/Katsysiro/Real-time-Chat-App-client
+https://github.com/Katsysiro/Real-time-Chat-App-server
